@@ -1,0 +1,73 @@
+{
+    "food": [
+        {
+            "id":0,
+            "name":"Adobo",
+            "description": "Philippine adobo is a popular Filipino dish and cooking process in Philippine cuisine that involves meat, seafood, or vegetables marinated in vinegar, soy sauce, garlic, bay leaves, and black peppercorns, which is browned in oil, and simmered in the marinade.",
+            "ingredients":["soysauce","chicken","pork","garlic","bayleaf","sugar","black peppercorn"]
+        },
+        {
+            "id":1,
+            "name":"Lechon",
+            "description":"The entire pig is spit-roasted over coals, with the crisp, golden-brown skin served with liver sauce, the most coveted part.",
+            "ingredients":["sucking pig","lemongrass","onion","garlic"]
+        },
+        {
+            "id":2,
+            "name":"Lumpia",
+            "description":"Filipino style egg rolls",
+            "ingredients":["ground pork","onions","carrots","garlic","salt","pepper","ginger","soysauce","eggs","cabbage"]
+        },
+        {
+            "id":3,
+            "name":"Pancit",
+            "description":"Traditional Filipino noodles",
+            "ingredients":["rice noodles", "onion","garlic","chicken","cabbage","carrot","soysauce","calamansi"]
+        },
+        {
+            "id":4,
+            "name":"Sinigang",
+            "description":"Filipino sour soup",
+            "ingredients":["tamaring","fish","chicken","pork","fish sauce","onions","garlic","tomatoes","taro","kang kong","longbeans"]
+        },
+        {
+            "id":5,
+            "name":"Dinuguan",
+            "description":"Pork blood stew",
+            "ingredients":["pork blood","vinegar","onion","garlic","ginger","pork belly","fish sauce","water","brown sugar","red chilli","salt","pepper"]
+        },
+        {
+            "id":6,
+            "name":"Chicken Tinola",
+            "description":"FIlipino Chicken ginger soup",
+            "ingredients":["chicken","ginger","water","fish sauce","onions","garlic","green papaya","kang kong"]
+        },
+        {
+            "id":7,
+            "name":"Sisig",
+            "description":"Sisig is a Filipino dish made from parts of a pig's face and belly, and chicken liver which is usually seasoned with calamansi, onions, and chili peppers.",
+            "ingredients":["pig ears","pork belly","onion","soysauce","black pepper","ginger","chili flakes","garlic","calamansi","butter","chicken liver","water","mayonnaise","salt","egg"]
+        },
+        {
+            "id":8,
+            "name":"Kare Kare",
+            "description":"Kare Kare is a type of Filipino stew with a rich and thick peanut sauce.",
+            "ingredients":["oxtail","banana flower bud","bok choy","string beans","eggplants","ground peanuts","peanut butter","shrimp paste","water","annatto seeds","toasted ground rice","garlic","onion","salt","pepper"]
+        },
+        {
+            "id":9,
+            "name":"Laing",
+            "description":"Dish of taro leaves cooked in rich coconut milk is an everyday staple in Bicol.",
+            "ingredients":["dried taro leaves","coconut milk","coconut cream","shrimp paste","pork shoulder","red chili","onion","ginger","garlic"]
+        },
+        {
+            "id":10,
+            "name":"Arrozcaldo",
+            "description":"Filipino ginger chicken rice porridge",
+            "ingredients":["onion","garlic","ginger","chicken","fish sauce","chicken broth","sweet rice","salt","pepper","onion","lemon"]
+        }
+        
+        
+    ]
+
+}
